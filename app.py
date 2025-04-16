@@ -6,7 +6,7 @@ import tempfile
 import os
 
 # 🔐 Gemini API Key
-GEMINI_API_KEY = "AIzaSyBPgzQmLqhGsTHVo-6YvwCkQR-3BDO3RUs"
+GEMINI_API_KEY = "API_key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # 📄 Extract text from PDF
